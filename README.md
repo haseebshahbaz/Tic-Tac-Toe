@@ -1,5 +1,4 @@
 # Tic Tac Toe Game
-Tic Tac Toe Game using HTML, CSS and JavaScript!!
 
 Welcome to the Tic Tac Toe Game repository! This is a simple web-based implementation of the classic Tic Tac Toe game, built using HTML, CSS, and JavaScript.
 
